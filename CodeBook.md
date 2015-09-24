@@ -38,4 +38,8 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
+I used the script to join the subject and activity to their respective performance of each feature during each trial. 
+
 For each Subject and activity a mean of the feature is created. 
+
+
